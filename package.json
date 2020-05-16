@@ -1,6 +1,6 @@
 {
   "name": "@leafyjava/react-click-away",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use this component to wrap other components to detect if it is clicked outside of the wrapped container.",
   "author": "zhenyanghua",
   "license": "MIT",
@@ -14,7 +14,7 @@
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
-    "prepublish": "run-s build",
+    "prepare": "run-s build",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
     "test:lint": "eslint .",

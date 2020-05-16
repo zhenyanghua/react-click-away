@@ -2,7 +2,7 @@
 
 > Use this component to wrap other components to detect if it is clicked outside of the wrapped container.
 
-[![NPM](https://img.shields.io/npm/v/react-click-away.svg)](https://www.npmjs.com/package/react-click-away) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@leafyjava/react-click-away.svg)](https://www.npmjs.com/package/@leafyjava/react-click-away) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Demo
 
