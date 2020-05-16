@@ -1,5 +1,5 @@
 {
-  "name": "react-click-away",
+  "name": "@leafyjava/react-click-away",
   "version": "1.0.0",
   "description": "Use this component to wrap other components to detect if it is clicked outside of the wrapped container.",
   "author": "zhenyanghua",

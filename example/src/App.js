@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ClickOutside from 'react-click-away'
+import ClickOutside from '@leafyjava/react-click-away'
 
 const App = () => {
   const [clicked, setClicked] = React.useState(false);

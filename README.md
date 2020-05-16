@@ -11,7 +11,7 @@
 ## Install
 
 ```bash
-npm install --save react-click-away
+npm install --save @leafyjava/react-click-away
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install --save react-click-away
 ```tsx
 import React from 'react'
 
-import ClickOutside from 'react-click-away'
+import ClickOutside from '@leafyjava/react-click-away'
 
 const App = () => {
   const [clicked, setClicked] = React.useState(false);

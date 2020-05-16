@@ -5,7 +5,7 @@ Use this component to wrap other components to detect if it is clicked outside o
 ## Usage
 
 ```typescript jsx static
-import ClickOutside from 'react-click-away'
+import ClickOutside from '@leafyjava/react-click-away'
 
 <ClickOutside onClickOutside={() => {}}>
     <MyComponent />
