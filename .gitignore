@@ -1,0 +1,7 @@
+yarn-error.log
+dist/
+node_modules/
+.idea/
+example/build/
+example/node_modules/
+example/yarn-error.log
