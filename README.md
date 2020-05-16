@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-click-away.svg)](https://www.npmjs.com/package/react-click-away) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Demo
+
+[https://zhenyanghua.github.io/react-click-away/](https://zhenyanghua.github.io/react-click-away/)
+
 ## Install
 
 ```bash
